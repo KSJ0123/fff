@@ -1,0 +1,142 @@
+.main_text{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 40px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.line{border: 1px solid #DCDCDC;width: 480px;
+    height: 400px;
+    margin: 40px auto 42px;
+}
+.box{
+    position: relative;
+    width: 100%;
+    border: 20px solid #444446;
+    background-color: #444446;
+    margin: 0 auto;
+    
+}
+.login{
+    border: 1px solid #DCDCDC;
+    padding: 14px 0;
+    width: 300px;
+    height: 80px;
+    margin-top: 50px;
+}
+.container{
+    font-family: arial;
+    margin: 10px;
+    width: 1000px;
+    height: 1000px;
+}
+
+.main{
+    width:1000px;
+    height: 1000px;
+    margin: 0 auto;
+    
+}
+table {
+    margin: 200px auto;
+    width: 100px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border-top: none;
+}
+.header {
+    background-color: rgb(218, 231, 255);
+    text-align: center;
+}
+.table td, .table th {
+    border-bottom: 1px lightgray solid; 
+    height: 30px;
+    font-size: 14px;
+}
+.num {
+    width: 50px;
+}
+.title {
+    width: 500px;
+}
+.body {
+    text-align: center;
+}
+.body .title {
+    text-align: left;
+}
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border: 0;
+    outline: 1.5px rgb(68, 136, 244) solid;
+    border-radius: 5px;
+    padding-left: 10px;
+    background-color: rgb(164, 199, 255);
+}
+button:active {
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border: 0;
+    border-radius: 5px;
+    outline: 1.5px rgb(27, 76, 155) solid;
+    padding-left: 10px;
+    background-color: rgb(68, 136, 244);
+}
+.contain_box{
+    width: auto;
+}
+.login_main_text{
+    text-align:center;
+    margin: 50px;
+    padding-top: 50px; 
+}
+.cont_login{
+    word-wrap: break-word;
+}
+.box_tf{
+    width: 440px;
+    height: 47px;
+    position: relative;
+    border: solid #ccc;
+    border-width: 0 0 2px;
+    margin: 50px auto;
+}
+.tf_g {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    min-height: 45px;
+    padding: 10px 0 8px;
+    border: 0;
+    font-size: 18px;
+    line-height: 25px;
+    color: #191919;
+    background-color: transparent;
+    letter-spacing: 0;
+    box-sizing: border-box;
+    outline: 0 none;
+    caret-color: #191919;
+    opacity: 1;
+}
+.main_1{
+    margin: 0 auto;
+}
+
+.sign{
+    top:20px ;
+    left: 130px;
+    position: relative;
+}
+
+.birth_day_box{
+    display: flex;
+    margin: 51px
+}
+
+.logo{
+    width: 50px;
+    display: block;
+}
